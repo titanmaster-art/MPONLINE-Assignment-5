@@ -1,14 +1,10 @@
 # Employee Attrition Prediction using Decision Tree and Random Forest
 
-**Author:** Akshat Garg  
+**Author:** ARIGHNA GUPTA
 
-**Registration Number:** 23BCE10641 
+**Registration Number:** 23BCY10207 
 
-**Application Number:** IN26011052
-
-**Batch Number:** 1A
-
-**Email ID:** akshat.23bce10641@vitbhopal.ac.in  
+**Batch Number:** 5A
 
 ## Objective
 The goal of this project is to build and compare Decision Tree and Random Forest classification models to predict employee attrition based on demographic, compensation, and job-related attributes.
